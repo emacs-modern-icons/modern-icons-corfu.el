@@ -6,7 +6,7 @@ Modern icons for Emacs [corfu](https://github.com/minad/corfu).
 
 </div>
 
-This library integrates [modern-icons.el](https://github.com/taquangtrung/modern-icons.el) to display modern and pretty SVG icons for [corfu](https://github.com/minad/corfu) completion results in Emacs.
+This library integrates [modern-icons.el](https://github.com/emacs-modern-icons/modern-icons.el) to display modern and pretty SVG icons for [corfu](https://github.com/minad/corfu) completion results in Emacs.
 
 ## Installation
 
@@ -15,7 +15,7 @@ From Melpa (supported soon) or manually install using [straight.el](https://gith
 ```elisp
 (use-package modern-icons
   :straight (modern-icons :type git :host github
-                          :repo "taquangtrung/modern-icons-corfu.el"))
+                          :repo "emacs-modern-icons/modern-icons-corfu.el"))
 ```
 
 ## Usage
