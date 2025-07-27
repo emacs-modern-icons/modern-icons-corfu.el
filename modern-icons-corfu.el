@@ -1,8 +1,8 @@
 ;;; modern-icons-corfu.el --- Modern icons for Corfu -*- lexical-binding: t -*-
 
-;; Copyright (C) 2025 Ta Quang Trung
+;; Copyright (C) 2025 Quang Trung Ta
 
-;; Author: Ta Quang Trung <taquangtrungvn@gmail.com>
+;; Author: Quang Trung Ta <taquangtrungvn@gmail.com>
 ;; Version: 0.1.0
 ;; Created: April 17, 2025
 ;; Homepage: https://github.com/emacs-modern-icons/modern-icons-corfu.el
