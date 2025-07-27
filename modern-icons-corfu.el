@@ -1,12 +1,12 @@
-;;; modern-icons-corfu.el --- Modern icons for corfu completion -*- lexical-binding: t -*-
+;;; modern-icons-corfu.el --- Modern icons for Corfu -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2025 Ta Quang Trung
 
 ;; Author: Ta Quang Trung <taquangtrungvn@gmail.com>
 ;; Version: 0.1.0
 ;; Created: April 17, 2025
-;; Homepage: https://github.com/emacs-modern-icons/modern-icons.el
-;; Package-Requires: ((emacs "28.1"))
+;; Homepage: https://github.com/emacs-modern-icons/modern-icons-corfu.el
+;; Package-Requires: ((emacs "28.1") (modern-icons.el "0.1") (corfu "0.2"))
 ;; Keywords: lisp, icons, corfu
 
 ;; This program is free software; you can redistribute it and/or modify
